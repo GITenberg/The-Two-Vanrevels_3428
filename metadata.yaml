@@ -1,0 +1,36 @@
+_repo: The-Two-Vanrevels_3428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, B. (Booth)
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: Set in 1846, Mr. Carewe "brought his lovely daughter home from the convent
+  to wreck the hearts of the youth of Rouen." Betty Carewe soon finds herself pursued
+  by two young men--but she mistakes them for the same person. Ardent suitor Crailey
+  Gray is content to let her believe that he is his rival, Tom Vanrevel.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2002-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: The Two Vanrevels
+url: http://www.gutenberg.org/ebooks/3428
